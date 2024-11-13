@@ -1,5 +1,7 @@
 # JavaScript-Addition Calculator
 
+![image](https://github.com/user-attachments/assets/81789d9b-3078-40f6-b38d-211249f1552c)
+
 ## About The Project
 
 This Sum Calculator project demonstrates the basic functionality of a Node.js and Express application. The project is designed for beginners to understand how to create RESTful APIs and serve static HTML files.
