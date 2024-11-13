@@ -1,4 +1,4 @@
-# JavaScript-MiniProject
+# JavaScript-Addition Calculator
 
 ## About The Project
 
